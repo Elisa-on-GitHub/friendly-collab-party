@@ -17,3 +17,7 @@ An exercise repository for OLS-4 cohort's GitHub workshop
 ## How does this work?
 - What's this?
 - And this?
+
+![Explanation](https://www.nobledesktop.com/image/blog/git-distributed-workflow-diagram.png)
+
+[Image source](https://www.nobledesktop.com/learn/git/remote-repository)
