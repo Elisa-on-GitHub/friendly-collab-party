@@ -18,6 +18,6 @@ An exercise repository for OLS-4 cohort's GitHub workshop
 - What's this?
 - And this?
 
-![Explanation](https://www.nobledesktop.com/image/blog/git-distributed-workflow-diagram.png)
+![Image](Image link)
 
 [Image source](https://www.nobledesktop.com/learn/git/remote-repository)
