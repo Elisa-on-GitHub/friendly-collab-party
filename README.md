@@ -22,7 +22,7 @@ An exercise repository for OLS-4 cohort's GitHub workshop
 
 [Image source](https://www.nobledesktop.com/learn/git/remote-repository)
 
-##Things to do after this workshop
+## Things to do after this workshop
 - Create OLS project repo
 - Add vision and roadmap
 - Create website
